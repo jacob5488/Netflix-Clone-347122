@@ -1,0 +1,27 @@
+footer{
+    position: relative;
+    text-align: center;
+    bottom: 0;
+    height: 120px;
+    background-color: rgb(29, 29, 29);
+}
+
+.contact{
+    padding-top: 30px;
+    margin-left: -30px;
+    -webkit-filter: invert(100%);
+}
+
+.contact img{
+    margin-left: 30px;
+}
+
+.email{
+    transform: scale(1.2);
+}
+
+footer p{
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding-top: 15px;
+}
